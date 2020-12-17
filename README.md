@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#installation">Installation</a>
   ·
-  <a href="https://github.com/mibmo/boss-to-bitch/master/CONTRIBUTING.md">Contribute</a>
+  <a href="https://github.com/mibmo/boss-to-bitch/blob/main/CONTRIBUTING.md">Contribute</a>
   ·
   <a href="#why">Why?</a>
 </p>
