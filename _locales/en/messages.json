@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "B0ss to Bitch",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "A person’s gender, age, race, or sexual orientation (or any personal characteristic) shouldn’t determine their access, opportunities, or quality of experience online. And yet . . . here we are. B0ss to Bitch agrees with that, but recognises that isn't reality and such believes that shielding people from the real world is a useless endavor. It aims to get particularly sensitive individuals acquainted with online bevhaior by replacing otherwise friendly or neutral words with derogatory ones.",
+    "description": "Description of the extension."
+  }
+}
