@@ -20,7 +20,7 @@
 
 <a name="installation"></a>
 ## Installation
-**TODO**: add this. 
+The addon is [available on the AMO](https://addons.mozilla.org/en-US/firefox/addon/b0ss-to-bitch).
 
 <a name="why"></a>
 ## Why?
