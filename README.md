@@ -7,6 +7,13 @@
 </p>
 
 <p align="center">
+    <a href="https://addons.mozilla.org/en-US/firefox/addon/b0ss-to-bitch">
+        <img src="https://shields.io/amo/v/b0ss-to-bitch.svg"/>
+        <img src="https://shields.io/amo/rating/b0ss-to-bitch.svg"/>
+    </a>
+</p>
+
+<p align="center">
   <a href="#installation">Installation</a>
   ·
   <a href="https://github.com/mibmo/boss-to-bitch/blob/main/CONTRIBUTING.md">Contribute</a>
